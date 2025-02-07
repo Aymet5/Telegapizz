@@ -10,7 +10,7 @@ logging.basicConfig(
 )
 
 # Токен вашего бота (получите у BotFather в Telegram)
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TOKEN = "7647935324:AAEq0kyF6XnYYjqkJC5pT7_BBOFjPMOXdjA"
 
 # Состояния для ConversationHandler
 MENU, CART, CHECKOUT, FEEDBACK = range(4)
